@@ -4,12 +4,13 @@ html {
   background-size:cover;
   min-height: 100vh;
   display:flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
   font-family: Futura, "Trebuchet MS", Arial, sans-serif
 }
 
 h1 {
   color: red;
+}
+
+h3 {
+  text-align: left;
 }
